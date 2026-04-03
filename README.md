@@ -1,8 +1,7 @@
-# About Me:
-Software Engineer @ Children's Hospital of Philadelphia | Backend, Cloud & AI Integration
-Ex-Oracle Corporation | Ex-Citibank | Oracle Certified Java Professional
+## About Me:
+Software Engineer @ Children's Hospital of Philadelphia | Ex-Oracle | Ex-Citibank | Oracle Certified Java Professional
 
-I build scalable, reliable systems across backend, cloud, and AI-driven applications, with 3+ years of experience delivering real-world impact through clean architecture and automation.
+Hi, I'm Sneha 😊. I build scalable, reliable systems across backend, cloud, and AI-driven applications, with 3+ years of experience delivering real-world impact through clean architecture and automation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-yenduri)
@@ -11,8 +10,9 @@ I build scalable, reliable systems across backend, cloud, and AI-driven applicat
 
 ## 🎓 Education
 Northeastern University, Boston, MA - Master's in Information Systems (Dec 2025)
-  Courses: Program Structures and Algorithms, Data Management and Database Design, Cloud Computing, Web Designing
-  Graduating Teaching Assistant (Network Structures and Cloud Computing): Mentored 50+ students in Cloud (AWS) and DevOps
+  
+- Courses: Program Structures and Algorithms, Data Management and Database Design, Cloud Computing, Web Designing
+- Graduating Teaching Assistant (Network Structures and Cloud Computing): Mentored 50+ students in Cloud (AWS) and DevOps
   through tutorials and code reviews, emphasizing Linux, Shell Scripting, and Terraform (IaC)
 
 ## 💼 Work Experience
