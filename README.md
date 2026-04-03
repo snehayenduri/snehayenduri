@@ -4,9 +4,10 @@ Ex-Oracle Corporation | Ex-Citibank | Oracle Certified Java Professional
 
 I build scalable, reliable systems across backend, cloud, and AI-driven applications, with 3+ years of experience delivering real-world impact through clean architecture and automation.
 
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-yenduri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehayenduri08@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-yenduri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://snehayenduri.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehayenduri08@gmail.com)
 
 ## 🎓 Education
 Northeastern University, Boston, MA - Master's in Information Systems (Dec 2025)
