@@ -16,9 +16,8 @@ Northeastern University, Boston, MA - Master's in Information Systems (Dec 2025)
 
 ## 💼 Work Experience
 
-### 🧪 Research Software Engineer  
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Children%27s_Hospital_of_Philadelphia_logo.svg/320px-Children%27s_Hospital_of_Philadelphia_logo.svg.png" height="20"/> 
-**:contentReference[oaicite:0]{index=0} | USA**  
+### Research Software Engineer  
+**Children's Hospital of Philadelphia | Pennsylvania, USA**  
 *Feb 2026 – Present*  
 
 - Built a high-throughput data acquisition pipeline integrating hardware APIs (camera SDKs, NI DAQ, LED controllers), improving synchronization and reducing latency by 20%  
@@ -27,9 +26,8 @@ Northeastern University, Boston, MA - Master's in Information Systems (Dec 2025)
 
 ---
 
-### ☁️ Software Engineer Intern  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/320px-Oracle_logo.svg.png" height="20"/> 
-**:contentReference[oaicite:1]{index=1} (OCI) | USA**  
+### Software Engineer Intern  
+**Oracle (OCI) | California, USA**  
 *Jan 2025 – Jul 2025*  
 
 - Developed an ML-based log monitoring system for real-time anomaly detection, accelerating root cause analysis by ~5×  
@@ -40,9 +38,8 @@ Northeastern University, Boston, MA - Master's in Information Systems (Dec 2025)
 
 ---
 
-### 💳 Senior Software Engineer  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Citi.svg/320px-Citi.svg.png" height="20"/> 
-**:contentReference[oaicite:2]{index=2} | Pune, India**  
+### Senior Software Engineer  
+**Citibank | Pune, India**  
 *Aug 2021 – Aug 2023*  
 
 - Built scalable backend systems using Java, Spring Boot, Microservices, and SQL for high-volume financial applications  
@@ -54,9 +51,8 @@ Northeastern University, Boston, MA - Master's in Information Systems (Dec 2025)
 
 ---
 
-### 🧩 Software Testing Intern  
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="20"/> 
-**:contentReference[oaicite:3]{index=3} | Hyderabad, India**  
+### Software Testing Intern  
+**Login2Xplore | Hyderabad, India**  
 *Sep 2020 – Feb 2021*  
 
 - Tested application features across a JSON-based database system using JavaScript, HTML, and JUnit  
