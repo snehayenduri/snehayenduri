@@ -10,6 +10,51 @@ I build scalable, reliable systems across backend, cloud, and AI-driven applicat
 
 ## 🎓 Education
 Northeastern University, Boston, MA - Master's in Information Systems (Dec 2025)
+  Courses: Program Structures and Algorithms, Data Management and Database Design, Cloud Computing, Web Designing
+  Graduating Teaching Assistant (Network Structures and Cloud Computing): Mentored 50+ students in Cloud (AWS) and DevOps
+  through tutorials and code reviews, emphasizing Linux, Shell Scripting, and Terraform (IaC)
+
+## 💼 Work Experience
+
+### 🧪 Research Software Engineer  
+**:contentReference[oaicite:0]{index=0} | USA**  
+*Feb 2026 – Present*  
+- Built a high-throughput data acquisition pipeline integrating hardware APIs (camera SDKs, NI DAQ, LED controllers), improving synchronization and reducing latency by 20%  
+- Migrated legacy MATLAB systems to Python, improving maintainability and achieving 1.4× faster execution  
+- Optimized data pipelines to increase output reliability by 30% and enhance overall system performance  
+
+---
+
+### ☁️ Software Engineer Intern  
+**:contentReference[oaicite:1]{index=1} (OCI) | USA**  
+*Jan 2025 – Jul 2025*  
+- Developed an ML-based log monitoring system for real-time anomaly detection, accelerating root cause analysis by ~5×  
+- Built an LLM-powered RCA agent using MCP and OpenAI APIs, automating diagnostics and improving developer productivity by 35%  
+- Designed an asynchronous Python full-stack system (FastAPI, Streamlit, MySQL) for high-volume log processing  
+- Improved model accuracy by 18% and reduced false alerts by ~30% through tuning and evaluation  
+- Automated workflows using systemd and ensured reliability via end-to-end testing  
+
+---
+
+### 💳 Senior Software Engineer  
+**:contentReference[oaicite:2]{index=2} | Pune, India**  
+*Aug 2021 – Aug 2023*  
+- Built scalable backend systems using Java, Spring Boot, Microservices, and SQL for high-volume financial applications  
+- Delivered features in Agile environments, improving development velocity and stability by 20%  
+- Increased code quality by 17% through JUnit testing, code reviews, and refactoring  
+- Reduced processing time by 35% via CI/CD pipelines (Jenkins, OpenShift) and automation scripts  
+- Resolved production issues across multiple regions, improving system stability and reducing downtime  
+- Maintained documentation and workflows using Jira, Bitbucket, and Confluence  
+
+---
+
+### 🧩 Software Testing Intern  
+**:contentReference[oaicite:3]{index=3} | Hyderabad, India**  
+*Sep 2020 – Feb 2021*  
+- Tested application features across a JSON-based database system using JavaScript, HTML, and JUnit  
+- Improved edge-case coverage and contributed to a 9% increase in system reliability through collaboration with developers
+
+---
 
 ## 💻 Tech Stack
 
